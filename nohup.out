@@ -1,0 +1,13 @@
+[I 09:47:16.761 NotebookApp] Serving notebooks from local directory: /home/chihao/NLP_lesson/NLP_assignments
+[I 09:47:16.761 NotebookApp] The Jupyter Notebook is running at:
+[I 09:47:16.761 NotebookApp] http://localhost:8888/?token=3a99ddbbccfbd9f2cd200bf82c976dd96c51cbaf2c03af3a
+[I 09:47:16.761 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 09:47:16.818 NotebookApp] No web browser found: could not locate runnable browser.
+[C 09:47:16.818 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/chihao/.local/share/jupyter/runtime/nbserver-391-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3a99ddbbccfbd9f2cd200bf82c976dd96c51cbaf2c03af3a
+[I 09:47:33.950 NotebookApp] Interrupted...
+[I 09:47:33.957 NotebookApp] Shutting down 0 kernels
