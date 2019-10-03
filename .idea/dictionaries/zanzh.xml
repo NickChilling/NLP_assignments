@@ -1,7 +1,9 @@
 <component name="ProjectDictionaryState">
   <dictionary name="zanzh">
     <words>
+      <w>convolutional</w>
       <w>logits</w>
+      <w>minibatch</w>
       <w>minst</w>
       <w>mnist</w>
     </words>
